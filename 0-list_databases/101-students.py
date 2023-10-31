@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-'''Module for python function that returns all students sorted by average score.
+'''A Python function that returns all students sorted by average score.
 '''
 
 
